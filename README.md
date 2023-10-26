@@ -1,5 +1,5 @@
 # MNISTDenoisingAutoencoder
-Implementation of a simple CNN architecture for use in a denoising autoencoder for MNIST images corrupted with a Gaussian blur from the PyPI [image corruptions](https://pypi.org/project/imagecorruptions/#description) library. The MNIST training images were further split into 4:1 training and validation sets. After training and validation, the model was evaluated on the testing set. All training and testing was done in a Jupyter notebook.
+Implementation of a simple CNN architecture for use in a denoising autoencoder for MNIST images corrupted with a Gaussian blur from the PyPI [image corruptions](https://pypi.org/project/imagecorruptions/#description) library. The MNIST training images were further split into 4:1 training and validation sets. After training and validation, the model was evaluated on the testing set. All training and testing was done in a Jupyter notebook with PyTorch.
 
 ## Hyperparameters
 - Batch size = 8
