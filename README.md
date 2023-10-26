@@ -10,6 +10,9 @@ Implementation of a simple CNN architecture for use in a denoising autoencoder f
 - Epochs = 10
 
 ## Results
-Over 10 epochs of training, both the average training loss and validation loss over the epoch converged to a minima of 0.00200. This trained model was then evalauted on the test set of MNIST images for a total average testing loss of 0.00198. This training and some examples of reconstructed images can be seen in the Results.html file.
+Over 10 epochs of training, both the average training loss and validation loss over the epoch converged to a minima of 0.00200. This trained model was then evalauted on the test set of MNIST images for a total average testing loss of 0.00198. This training and more examples of reconstructed images can be seen in the Results.html file.
 
+### Sample of Results
+
+![Screenshot](ExampleResults.png)
 
